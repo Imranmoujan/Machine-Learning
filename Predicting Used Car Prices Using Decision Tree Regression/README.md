@@ -33,5 +33,5 @@ To run this project, clone the repository and execute the Jupyter Notebook. Ensu
 
 ## Conclusion
 
-This project demonstrates the application of machine learning techniques to predict car prices based on historical data. The Decision Tree model was initially evaluated, resulting in an R² score of 0.559. After hyperparameter tuning, the model's accuracy slightly improved, achieving an R² score of 0.562. This improvement, though modest, indicates that fine-tuning the model's parameters can enhance its predictive capabilities.
+This project demonstrates the application of machine learning techniques to predict car prices based on historical data. A Decision Tree model was developed and refined through hyperparameter tuning. The project highlights how proper preprocessing, feature engineering, and parameter optimization can enhance the predictive capability of regression models.
   
